@@ -1,1 +1,1 @@
-"SFA project - independent study" 
+"SFA (search fund accelerator) - 2018 independent study" 
